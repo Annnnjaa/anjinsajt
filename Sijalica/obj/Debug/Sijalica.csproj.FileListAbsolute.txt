@@ -1,0 +1,4 @@
+C:\Users\Korisnik\Desktop\sajt\Sijalica\Sijalica\bin\Sijalica.dll
+C:\Users\Korisnik\Desktop\sajt\Sijalica\Sijalica\bin\Sijalica.pdb
+C:\Users\Korisnik\Desktop\sajt\Sijalica\Sijalica\obj\Debug\Sijalica.dll
+C:\Users\Korisnik\Desktop\sajt\Sijalica\Sijalica\obj\Debug\Sijalica.pdb
